@@ -1,0 +1,5 @@
+pytest~=6.2
+pillow~=8.0
+click~=7.1
+jax
+jaxlib
